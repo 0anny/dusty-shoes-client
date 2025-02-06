@@ -1,4 +1,4 @@
-## Table of Contents
+.## Table of Contents
 * [Background](#background)
 * [Getting Started](#getting-started-with-dusty-shoes)
 * [Interaction](#how-to-interact-with-the-app)
